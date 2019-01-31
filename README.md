@@ -1,4 +1,7 @@
 # Mazy-Ball
+
+Available at : https://play.google.com/store/apps/details?id=com.TeamZerothBD.MazyBall
+
 Mazy Ball is a game , made in Unity 3D. It has been released recently in Play Store also . Have idea feel free to share . 
 
 ----------------------------
